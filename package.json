@@ -1,0 +1,14 @@
+{
+  "name": "electron-radio",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^6.0.10",
+    "jquery": "^3.4.1",
+    "lautfm": "^1.1.0"
+  }
+}
